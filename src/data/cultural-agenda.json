@@ -1,0 +1,15 @@
+// src/data/cultural-agenda.json
+[
+  {
+    "slug": "carnaval-recife-antigo",
+    "title": "Carnaval no Recife Antigo",
+    "image": "/images/carnaval.jpg",
+    "content": "A programação de Carnaval no Recife Antigo promete muita folia e diversão. Bandas locais e orquestras de frevo se apresentarão no Marco Zero, com shows gratuitos e abertos ao público."
+  },
+  {
+    "slug": "festival-jazz-e-blues",
+    "title": "Festival de Jazz e Blues na cidade",
+    "image": "/images/jazz.jpg",
+    "content": "O Festival de Jazz e Blues de Recife é um evento imperdível. Com artistas renomados nacional e internacionalmente, a programação se estenderá por vários dias em teatros e espaços culturais da cidade."
+  }
+]
